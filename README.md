@@ -1,2 +1,0 @@
-# estrucura
-deber de estructura 
